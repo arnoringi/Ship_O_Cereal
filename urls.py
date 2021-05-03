@@ -24,3 +24,4 @@ urlpatterns = [
 
 
 """Test Gihub, i'm here"""
+"""Bonjour, je m'appelle Nóri"""
